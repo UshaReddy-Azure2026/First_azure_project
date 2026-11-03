@@ -1,0 +1,15 @@
+{
+	"name": "myfirstproject2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca133883-e11c-4a16-8b8a-2665aec9a62e",
+		"tenantId": "e63c394c-4a05-49ef-8992-848fbfde8dd6"
+	}
+}
